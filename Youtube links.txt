@@ -1,0 +1,23 @@
+DBMS Placement Series - https://youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU
+Python for beginner Telusko - https://youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
+Function for one variable (Success ted ) - https://youtube.com/playlist?list=PL3udypWrXq7MlL-PoKdT5wjjLHm0DnYUA
+Data Science full course (Code basics) - https://youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV
+Essential Mathematics for Machine Learning (NPTEL) - https://youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE
+Python tutorial for beginners (Code with Harry ) - https://youtube.com/playlist?list=PLK8cqdr55Tss0puRoHDBagvj7Qjin9axl
+Python tutorial for absolute beginners in Hindi (Code with Harry ) - https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME
+Machine Learning Tutorial for the beginner ( code with harry )- https://youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG
+Machine Learning tutorial python for the beginner (code basics) - https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
+Machine Learning Andrew Ng. - https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+Lecture collection Machine Learning (Stanford) - https://youtube.com/playlist?list=PLA89DCFA6ADACE599
+OpenGL Programming - https://youtube.com/playlist?list=PLf8EAse10pKcZ5AUN2Mmq8beu4IZ-AhRm
+Dynamical System and Chaos - https://youtube.com/playlist?list=PLF0b3ThojznQwpDEClMZmHssMsuPnQxZT
+Dynamical System and Chaos (steven Strogatz) - https://youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V
+Programming (Harvard) - https://youtu.be/8mAITcNt710
+Matlab - https://www.youtube.com/watch?v=7f50sQYjNRA&list=PL22skyIJVoDrMsbLJD27t1-51eQShgZ_y&index=1
+Statistics - https://www.youtube.com/watch?v=xxpc-HPKN28&list=PL22skyIJVoDpCVO8Mz2a4nZbUSkXJ90Of&index=1
+Stanford Machine Learning - https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+Python (freeCodeCamp) - https://www.youtube.com/watch?v=8DvywoWv6fI&list=PL22skyIJVoDpAIp0Kkf7-LEegKGPJ2Yg_&index=1
+Python for data science (https://www.youtube.com/watch?v=LHBE6Q9XlzI&list=PL22skyIJVoDrGkoalexZWrKF6f-IJwjGc&index=1)
+Intro to dynamic programming - https://youtube.com/playlist?list=PLDzeHZWIZsTomOPnCiU3J95WufjE36wsb
+
+Python Advanced Course https://youtu.be/HGOBQPFzWKo
